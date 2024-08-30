@@ -1,1 +1,27 @@
+Aula 04
+
+<!DOCTYPE html>
+<html>	
+	<head>
+		<title>Brasília 60 Anos</title>
+		<meta charset="UTF-8">
+	</head>
+<body>
+	<dl>
+		<dt> HTML</dt>
+		<dd>HTML Básico</dd>
+		<dd>HTML Intermediário</dd>
+		<dd>HTML Avançado</dd>
+		<dt>CSS</dt>
+		<dd>CSS Básico</dd>
+		<dd>CSS Intermediário</dd>
+		<dd>CSS Avançado</dd>
+	</dl>
+</body>
+</html>
+
+-----
+
+
+
 
