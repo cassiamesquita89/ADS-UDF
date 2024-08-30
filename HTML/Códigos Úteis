@@ -1,3 +1,33 @@
 Códigos Úteis:
 <meta charset="UTF-8">  serve para corrigir o texto no padrão brasileiro
 <h1>Títulos de Notícias</h1>  serve para colocar títulos
+<p> serve para adicionar um novo parágrafo
+<br> serve para quebra de linha simples
+------
+Listas Ordenadas:
+<ol>
+		<li> serve para criar uma Lista ordenada
+<ol type="A"> serve para alterar o tipo da lista para letras ou <ol type="I"> serve para criar algarismos romanos
+----
+Listas NÃO ordenadas
+<ol>
+		<ul> serve para criar uma Lista não ordenada
+------
+<ul type="circle"> serve para criar um ponto "oco"
+<ul type="desc"> serve para criar um ponto fechado
+<ul type="square"> serve para criar um quadrado
+----
+Listas de Definições
+Exemplo:
+<dl>
+		<dt> HTML</dt>
+		<dd>HTML Básico</dd>
+		<dd>HTML Intermediário</dd>
+		<dd>HTML Avançado</dd>
+		<dt>CSS</dt>
+		<dd>CSS Básico</dd>
+		<dd>CSS Intermediário</dd>
+		<dd>CSS Avançado</dd>
+-----
+
+
